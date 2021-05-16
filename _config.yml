@@ -44,6 +44,7 @@ social_media:
   # unsplash: your_username
   # vk: your_username
   bandlab: yro0
+  website: https://www.bandlab.com/yro0
   # website: http://your_website_url
   # youtube: your_username
 
@@ -54,6 +55,6 @@ topics:
 
   - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+ # - name: Sass
+ #   web_url: https://github.com/topics/sass
+ #  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
