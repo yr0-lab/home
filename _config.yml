@@ -16,7 +16,6 @@ defaults:
     values:
       layout: "post"
 
-
 social_media:
   # facebook: your_username
   # instagram: your_username
@@ -30,4 +29,3 @@ social_media:
   website: https://www.bandlab.com/yro0 Bandlab
   # website: http://your_website_url
   # youtube: your_username
-
